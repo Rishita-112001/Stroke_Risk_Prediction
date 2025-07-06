@@ -1,6 +1,14 @@
 # Stroke Prediction App
 
-This is a Streamlit-based machine learning web app that predicts the risk of a stroke based on user inputs.
+This is a Flask-based machine learning web app that predicts the risk of a stroke based on user inputs.
+
+---
+
+## Try It Here
+
+[Stroke Risk Prediction](https://stroke-risk-prediction-s0ho.onrender.com)
+
+---
 
 ## How to Run
 
