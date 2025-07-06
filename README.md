@@ -10,6 +10,12 @@ This is a Flask-based machine learning web app that predicts the risk of a strok
 
 ---
 
+## How It Looks
+
+![Screenshot 2025-07-06 122812](https://github.com/user-attachments/assets/4b118dd5-0512-4a27-9256-0dd75e30b420)
+
+---
+
 ## How to Run
 
 1. Create virtual environment and activate
